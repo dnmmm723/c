@@ -9,9 +9,9 @@ I was also messing around with Git integration in VS Code, but a misstep ended u
 Spent 8 hours with Gemini today—longer than I actually slept. Truly mind-blowing. I just hope this 'grinding' phase doesn't last too much longer.....
 
 3.21
-This is a relatively simple prolem;ar least it didn't put me through "menory management hell" this time.
-I struggled with the for loop boundaries for a bit and even forgot to reset the sum to 0 at the start of each iteration.
-I've learnt how to useEOF now-it'll difinitely come in handy during comoetitions
-I also realized that while loops can actually handle conditional assignment
-On another note,VS Code is acting up again-it keeps auto-generating abunch of boilerplate code that's actually full of errors
-lately.i haven't had muc time to grind through C Primer plus.i've applied to join the cpp lab,but I'm a bit worried about whether a "half-baked" programmer like me can actually pass the assignment,haha.
+This is a relatively simple problem;at least it didn't put me through "menory management hell" this time.
+I struggled with the for loop boundaries for a bit and even forgot to reset the variable to 0 at the start of each iteration.
+I've learnt how to use EOF now-it'll definitely come in handy during comoetitions.
+I also realized that WHILE loops can actually handle conditional assignment.
+On another note,VS Code is acting up again-it keeps auto-generating a bunch of boilerplate code that's actually full of errors.
+lately.i haven't had much time to grind through C Primer Plus.I've applied to join the cpp lab,but I'm a bit worried about whether a "half-baked" programmer like me can actually pass the assignment,haha.
