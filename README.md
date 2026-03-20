@@ -14,4 +14,4 @@ I struggled with the for loop boundaries for a bit and even forgot to reset the 
 I've learnt how to use EOF now-it'll definitely come in handy during comoetitions.
 I also realized that WHILE loops can actually handle conditional assignment.
 On another note,VS Code is acting up again-it keeps auto-generating a bunch of boilerplate code that's actually full of errors.
-lately.i haven't had much time to grind through C Primer Plus.I've applied to join the cpp lab,but I'm a bit worried about whether a "half-baked" programmer like me can actually pass the assignment,haha.
+lately.I've been so buried in C Primer Plus that I haven't had much time to actually grind through practice problem.I've applied to join the cpp lab,but I'm a bit worried about whether a "half-baked" programmer like me can actually pass the assignment,haha.
